@@ -69,6 +69,16 @@ public class SelectStatement extends SQLStatement {
              * PS 2: Add code here to implement the rest of the method
              * as described in the assignment.
              */
+            Table table = this.getTable(0);
+            if(table.open() != OperationStatus.SUCCESS){
+                throw new Exception();
+            }
+            if(this.numTables() != 1 | this.selectList.size()!=1){
+                throw new Exception();
+            }
+            iter = new TableIterator(this,table,true);
+            iter.printAll(System.out);
+            
         } catch (Exception e) {
             String errMsg = e.getMessage();
             if (errMsg != null) {
@@ -77,6 +87,7 @@ public class SelectStatement extends SQLStatement {
         }
         
         if (iter != null) {
+            System.out.println("Selected " + iter.numTuples()+ " tuples.");
             iter.close();
         }
     }

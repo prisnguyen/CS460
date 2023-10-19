@@ -20,7 +20,7 @@ public class TableIterator {
     private DatabaseEntry value;
     private ConditionalExpression where;
     private int numTuples;
-    
+
     /**
      * Constructs a TableIterator object for the subset of the specified
      * table that is defined by the given SQLStatement.  If the
@@ -217,9 +217,45 @@ public class TableIterator {
          * PS 2: replace the following return statement with your 
          * implementation of the rest of this method.
          */
-        return null;
+	int type = col.getType();
+	int ind = col.getIndex();
+    int length = col.getLength();
+	Object x;
+
+    RowInput valIn = new RowInput(this.value.getData());
+    RowInput keyIn = new RowInput(this.key.getData());
+    if (col.isPrimaryKey()) {
+        switch(type) {
+            case 0:
+                x = keyIn.readNextInt();
+                break;
+            case 1:
+                x = keyIn.readNextDouble();
+                break;
+            default:
+                x = keyIn.readBytesAtOffset(0, length);
+        }
+    } else { 
+        short offset = valIn.readShortAtOffset(2 * ind);
+
+        if(offset == -1){
+            return null;
+        }
+        switch(type){
+            case 0:
+                x = valIn.readIntAtOffset(offset);
+                break;
+            case 1:
+                x = valIn.readDoubleAtOffset(offset);
+                break;
+            default:
+                short end = valIn.readNextShort();
+                x = valIn.readBytesAtOffset(offset, end - offset);
+            }
+        }
+        return x;
     }
-    
+
     /**
      * Gets the number of tuples that the iterator has visited.
      *

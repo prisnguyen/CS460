@@ -51,7 +51,7 @@ public class RowInput {
             throw new IllegalArgumentException(err);
         }
     }
-    
+
     /*
      * Prepares for a read of bytesToRead bytes at the specified offset
      * in this RowInput's bytes array.
