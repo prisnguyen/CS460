@@ -127,11 +127,32 @@ public class MovieToXML {
      * id number, the method returns an empty string.
      */
     public String actorsFor(String movieID) throws SQLException {
-        
-        // replace this return statement with your implementation of the method
-        return "";
-    }    
+        String query = "SELECT p.name FROM Person p " + 
+                       "JOIN Actor a ON p.id = a.actor_id " +
+                       "WHERE a.movie_id = '" + movieID + "'" +
+                       "ORDER BY p.name;";
+        ResultSet results = resultsFor(query);
     
+        StringBuilder builder = new StringBuilder();
+    
+        while (results.next()) {
+            String actor = results.getString(1);
+    
+            if (actor != null) {
+                builder.append("      ").append(simpleElem("actor", actor)).append("\n");
+            }
+        }
+    
+        if (builder.length() > 0) {
+            builder.insert(0, "    <actors>\n");
+            builder.append("    </actors>\n");
+        } else {
+            return "";
+        }
+    
+        return builder.toString();
+    }
+
     /*
      * directorsFor - takes a string representing the id number of a movie
      * and returns a single complex XML element named "directors" that contains a
@@ -140,9 +161,30 @@ public class MovieToXML {
      * id number, the method returns an empty string.
      */
     public String directorsFor(String movieID) throws SQLException {
-        
-        // replace this return statement with your implementation of the method
-        return "";
+        String query = "SELECT p.name FROM Person p " + 
+                       "JOIN Director d ON p.id = d.director_id " +
+                       "WHERE d.movie_id = '" + movieID + "'" +
+                       "ORDER BY p.name;";
+        ResultSet results = resultsFor(query);
+    
+        StringBuilder builder = new StringBuilder();
+    
+        while (results.next()) {
+            String director = results.getString(1);
+    
+            if (director != null) {
+                builder.append("      ").append(simpleElem("director", director)).append("\n");
+            }
+        }
+    
+        if (builder.length() > 0) {
+            builder.insert(0, "    <director>\n");
+            builder.append("    </director>\n");
+        } else {
+            return "";
+        }
+    
+        return builder.toString();
     }    
     
     /*
@@ -153,8 +195,34 @@ public class MovieToXML {
      * the specified id number, the method returns an empty string.
      */
     public String elementFor(String movieID) throws SQLException {
-        // replace this return statement with your implementation of the method
-        return "";
+        String query = "SELECT id FROM Movie WHERE id = '" + movieID + "';";
+        ResultSet results = resultsFor(query);
+    
+        if (results.next()) {
+            StringBuilder builder = new StringBuilder();
+    
+            builder.append("  <movie id=\"" + movieID + "\">\n");
+    
+            String fields = fieldsFor(movieID);
+            if (!fields.isEmpty()) {
+                builder.append(fields);
+            }
+    
+            String actors = actorsFor(movieID);
+            if (!actors.isEmpty()) {
+                builder.append(actors);
+            }
+    
+            String directors = directorsFor(movieID);
+            if (!directors.isEmpty()) {
+                builder.append(directors);
+            }
+                builder.append("  </movie>\n");
+    
+            return builder.toString();
+        } else {
+            return "";
+        }
     }
 
     /*
