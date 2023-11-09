@@ -81,39 +81,40 @@ public class MovieToXML {
         ResultSet results = resultsFor(query);
 
         if (results.next()) {
-            StringBuilder builder = new StringBuilder();
-    
+            String result = "";
+
             String name = results.getString(2);
             String year = results.getString(3);
             String rating = results.getString(4);
             String runtime = results.getString(5);
-            String genre = results.getString(6); 
+            String genre = results.getString(6);
             String earnings_rank = results.getString(7);
+
             if (name != null) {
-                builder.append("    ").append(simpleElem("name", name)).append("\n");
+                result += "    " + simpleElem("name", name) + "\n";
             }
-    
+
             if (year != null) {
-                builder.append("    ").append(simpleElem("year", year)).append("\n");
+                result += "    " + simpleElem("year", year) + "\n";
             }
-    
+
             if (rating != null) {
-                builder.append("    ").append(simpleElem("rating", rating)).append("\n");
+                result += "    " + simpleElem("rating", rating) + "\n";
             }
 
             if (runtime != null) {
-                builder.append("    ").append(simpleElem("runtime", runtime)).append("\n");
+                result += "    " + simpleElem("runtime", runtime) + "\n";
             }
 
             if (genre != null) {
-                builder.append("    ").append(simpleElem("genre", genre)).append("\n");
+                result += "    " + simpleElem("genre", genre) + "\n";
             }
 
             if (earnings_rank != null) {
-                builder.append("    ").append(simpleElem("earnings_rank", earnings_rank)).append("\n");
+                result += "    " + simpleElem("earnings_rank", earnings_rank) + "\n";
             }
-    
-            return builder.toString();
+
+            return result;
         } else {
             return "";
         }
@@ -132,25 +133,23 @@ public class MovieToXML {
                        "WHERE a.movie_id = '" + movieID + "'" +
                        "ORDER BY p.name;";
         ResultSet results = resultsFor(query);
-    
-        StringBuilder builder = new StringBuilder();
-    
+        String result = "";
+
         while (results.next()) {
             String actor = results.getString(1);
     
             if (actor != null) {
-                builder.append("      ").append(simpleElem("actor", actor)).append("\n");
+                result += ("      ") + (simpleElem("actor", actor)) + ("\n");
             }
         }
     
-        if (builder.length() > 0) {
-            builder.insert(0, "    <actors>\n");
-            builder.append("    </actors>\n");
+        if (!result.isEmpty()) {
+            result = "    <actors>\n" + result + "    </actors>\n";
         } else {
             return "";
         }
     
-        return builder.toString();
+        return result;
     }
 
     /*
@@ -166,25 +165,23 @@ public class MovieToXML {
                        "WHERE d.movie_id = '" + movieID + "'" +
                        "ORDER BY p.name;";
         ResultSet results = resultsFor(query);
-    
-        StringBuilder builder = new StringBuilder();
-    
+        String result = "";
+
         while (results.next()) {
-            String director = results.getString(1);
+            String directors = results.getString(1);
     
-            if (director != null) {
-                builder.append("      ").append(simpleElem("director", director)).append("\n");
+            if (directors != null) {
+                result += ("      ") + (simpleElem("director", directors)) + ("\n");
             }
         }
     
-        if (builder.length() > 0) {
-            builder.insert(0, "    <director>\n");
-            builder.append("    </director>\n");
+        if (!result.isEmpty()) {
+            result = "    <directors>\n" + result + "    </directors>\n";
         } else {
             return "";
         }
     
-        return builder.toString();
+        return result;
     }    
     
     /*
@@ -199,27 +196,25 @@ public class MovieToXML {
         ResultSet results = resultsFor(query);
     
         if (results.next()) {
-            StringBuilder builder = new StringBuilder();
-    
-            builder.append("  <movie id=\"" + movieID + "\">\n");
+            String result = "  <movie id=\"" + movieID + "\">\n";
     
             String fields = fieldsFor(movieID);
             if (!fields.isEmpty()) {
-                builder.append(fields);
+                result += fields;
             }
     
             String actors = actorsFor(movieID);
             if (!actors.isEmpty()) {
-                builder.append(actors);
+                result += actors;
             }
     
             String directors = directorsFor(movieID);
             if (!directors.isEmpty()) {
-                builder.append(directors);
+                result += directors;
             }
-                builder.append("  </movie>\n");
+            result += "  </movie>\n";
     
-            return builder.toString();
+            return result;
         } else {
             return "";
         }

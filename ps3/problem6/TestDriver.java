@@ -23,14 +23,14 @@ public class TestDriver {
         // System.out.println(xml.actorsFor("1234567"));
         // System.out.println(xml.actorsFor(xml.idFor("Wonder Woman")));
 
-        // MovieToXML xml = new MovieToXML("movie.sqlite");
-        // System.out.println(xml.directorsFor(xml.idFor("Black Panther")));
-        // System.out.println(xml.directorsFor("1234567"));
-        // System.out.println(xml.directorsFor(xml.idFor("Frozen")));
-
         MovieToXML xml = new MovieToXML("movie.sqlite");
-        System.out.println(xml.elementFor(xml.idFor("Black Panther")));
-        System.out.println(xml.elementFor("1234567"));
-        System.out.println(xml.elementFor(xml.idFor("Wonder Woman")));
+        System.out.println(xml.directorsFor(xml.idFor("Black Panther")));
+        System.out.println(xml.directorsFor("1234567"));
+        System.out.println(xml.directorsFor(xml.idFor("Frozen")));
+
+        // MovieToXML xml = new MovieToXML("movie.sqlite");
+        // System.out.println(xml.elementFor(xml.idFor("Black Panther")));
+        // System.out.println(xml.elementFor("1234567"));
+        // System.out.println(xml.elementFor(xml.idFor("Wonder Woman")));
     }
 }
