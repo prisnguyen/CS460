@@ -1,0 +1,3238 @@
+[
+{
+  "year": 2023,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "6710474", "name": "Everything Everywhere All at Once" }
+},
+{
+  "year": 2023,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000409", "name": "Brendan Fraser" },
+  "movie": { "id": "1383368", "name": "The Whale" }
+},
+{
+  "year": 2023,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000706", "name": "Michelle Yeoh" },
+  "movie": { "id": "6710474", "name": "Everything Everywhere All at Once" }
+},
+{
+  "year": 2023,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000130", "name": "Jamie Lee Curtis" },
+  "movie": { "id": "6710474", "name": "Everything Everywhere All at Once" }
+},
+{
+  "year": 2023,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0702841", "name": "Ke Huy Quan" },
+  "movie": { "id": "6710474", "name": "Everything Everywhere All at Once" }
+},
+{
+  "year": 2023,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "3453283", "name": "Daniel Kwan" },
+  "movie": { "id": "6710474", "name": "Everything Everywhere All at Once" }
+},
+{
+  "year": 2023,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "3215397", "name": "Daniel Scheinert" },
+  "movie": { "id": "6710474", "name": "Everything Everywhere All at Once" }
+},
+{
+  "year": 2022,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "1036646", "name": "CODA" }
+},
+{
+  "year": 2022,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000226", "name": "Will Smith" },
+  "movie": { "id": "9620288", "name": "King Richard" }
+},
+{
+  "year": 2022,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "1567113", "name": "Jessica Chastain" },
+  "movie": { "id": "9115530", "name": "The Eyes of Tammy Faye" }
+},
+{
+  "year": 2022,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "3663196", "name": "Ariana DeBose" },
+  "movie": { "id": "3581652", "name": "West Side Story" }
+},
+{
+  "year": 2022,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "1319274", "name": "Troy Kotsur" },
+  "movie": { "id": "1036646", "name": "CODA" }
+},
+{
+  "year": 2022,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001005", "name": "Jane Campion" },
+  "movie": { "id": "1029340", "name": "The Power of the Dog" }
+},
+{
+  "year": 2021,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "9770150", "name": "Nomadland" }
+},
+{
+  "year": 2021,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000164", "name": "Anthony Hopkins" },
+  "movie": { "id": "0272386", "name": "The Father" }
+},
+{
+  "year": 2021,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000531", "name": "Frances McDormand" },
+  "movie": { "id": "9770150", "name": "Nomadland" }
+},
+{
+  "year": 2021,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "2257207", "name": "Daniel Kaluuya" },
+  "movie": { "id": "9784798", "name": "Judas and the Black Messiah" }
+},
+{
+  "year": 2021,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0950926", "name": "Yuh-Jung Youn" },
+  "movie": { "id": "0633456", "name": "Minari" }
+},
+{
+  "year": 2021,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "2125482", "name": "Chloe Zhao" },
+  "movie": { "id": "9770150", "name": "Nomadland" }
+},
+{
+  "year": 2020,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "6751668", "name": "Parasite" }
+},
+{
+  "year": 2020,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0001618", "name": "Joaquin Phoenix" },
+  "movie": { "id": "7286456", "name": "Joker" }
+},
+{
+  "year": 2020,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000250", "name": "Renee Zellweger" },
+  "movie": { "id": "7549996", "name": "Judy" }
+},
+{
+  "year": 2020,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000093", "name": "Brad Pitt" },
+  "movie": { "id": "7131622", "name": "Once Upon a Time... In Hollywood" }
+},
+{
+  "year": 2020,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000368", "name": "Laura Dern" },
+  "movie": { "id": "7653254", "name": "Marriage Story" }
+},
+{
+  "year": 2020,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0094435", "name": "Bong Joon Ho" },
+  "movie": { "id": "6751668", "name": "Parasite" }
+},
+{
+  "year": 2019,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "6966692", "name": "Green Book" }
+},
+{
+  "year": 2019,
+  "type": "BEST-ACTOR",
+  "person": { "id": "1785339", "name": "Rami Malek" },
+  "movie": { "id": "1727824", "name": "Bohemian Rhapsody" }
+},
+{
+  "year": 2019,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "1469236", "name": "Olivia Colman" },
+  "movie": { "id": "5083738", "name": "The Favourite" }
+},
+{
+  "year": 2019,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0991810", "name": "Mahershala Ali" },
+  "movie": { "id": "6966692", "name": "Green Book" }
+},
+{
+  "year": 2019,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0005093", "name": "Regina King" },
+  "movie": { "id": "7125860", "name": "If Beale Street Could Talk" }
+},
+{
+  "year": 2019,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0190859", "name": "Alfonso Cuaron" },
+  "movie": { "id": "6155172", "name": "Roma" }
+},
+{
+  "year": 2018,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "5580390", "name": "The Shape of Water" }
+},
+{
+  "year": 2018,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000198", "name": "Gary Oldman" },
+  "movie": { "id": "4555426", "name": "Darkest Hour" }
+},
+{
+  "year": 2018,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000531", "name": "Frances McDormand" },
+  "movie": { "id": "5027774", "name": "Three Billboards Outside Ebbing, Missouri" }
+},
+{
+  "year": 2018,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0005377", "name": "Sam Rockwell" },
+  "movie": { "id": "5027774", "name": "Three Billboards Outside Ebbing, Missouri" }
+},
+{
+  "year": 2018,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0005049", "name": "Allison Janney" },
+  "movie": { "id": "5580036", "name": "I, Tonya" }
+},
+{
+  "year": 2018,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0868219", "name": "Guillermo del Toro" },
+  "movie": { "id": "5580390", "name": "The Shape of Water" }
+},
+{
+  "year": 2017,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "4975722", "name": "Moonlight" }
+},
+{
+  "year": 2017,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000729", "name": "Casey Affleck" },
+  "movie": { "id": "4034228", "name": "Manchester by the Sea" }
+},
+{
+  "year": 2017,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "1297015", "name": "Emma Stone" },
+  "movie": { "id": "3783958", "name": "La La Land" }
+},
+{
+  "year": 2017,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0991810", "name": "Mahershala Ali" },
+  "movie": { "id": "4975722", "name": "Moonlight" }
+},
+{
+  "year": 2017,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0205626", "name": "Viola Davis" },
+  "movie": { "id": "2671706", "name": "Fences" }
+},
+{
+  "year": 2017,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "3227090", "name": "Damien Chazelle" },
+  "movie": { "id": "3783958", "name": "La La Land" }
+},
+{
+  "year": 2016,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "1895587", "name": "Spotlight" }
+},
+{
+  "year": 2016,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000138", "name": "Leonardo DiCaprio" },
+  "movie": { "id": "1663202", "name": "The Revenant" }
+},
+{
+  "year": 2016,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0488953", "name": "Brie Larson" },
+  "movie": { "id": "3170832", "name": "Room" }
+},
+{
+  "year": 2016,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0753314", "name": "Mark Rylance" },
+  "movie": { "id": "3682448", "name": "Bridge of Spies" }
+},
+{
+  "year": 2016,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "2539953", "name": "Alicia Vikander" },
+  "movie": { "id": "0810819", "name": "The Danish Girl" }
+},
+{
+  "year": 2016,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0327944", "name": "Alejandro Gonzalez Inarritu" },
+  "movie": { "id": "1663202", "name": "The Revenant" }
+},
+{
+  "year": 2015,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "2562232", "name": "Birdman: Or" }
+},
+{
+  "year": 2015,
+  "type": "BEST-ACTOR",
+  "person": { "id": "1519666", "name": "Eddie Redmayne" },
+  "movie": { "id": "2980516", "name": "The Theory of Everything" }
+},
+{
+  "year": 2015,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000194", "name": "Julianne Moore" },
+  "movie": { "id": "3316960", "name": "Still Alice" }
+},
+{
+  "year": 2015,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0799777", "name": "J.K. Simmons" },
+  "movie": { "id": "2582802", "name": "Whiplash" }
+},
+{
+  "year": 2015,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000099", "name": "Patricia Arquette" },
+  "movie": { "id": "1065073", "name": "Boyhood" }
+},
+{
+  "year": 2015,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0327944", "name": "Alejandro Gonzalez Inarritu" },
+  "movie": { "id": "2562232", "name": "Birdman: Or" }
+},
+{
+  "year": 2014,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "2024544", "name": "12 Years a Slave" }
+},
+{
+  "year": 2014,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000190", "name": "Matthew McConaughey" },
+  "movie": { "id": "0790636", "name": "Dallas Buyers Club" }
+},
+{
+  "year": 2014,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000949", "name": "Cate Blanchett" },
+  "movie": { "id": "2334873", "name": "Blue Jasmine" }
+},
+{
+  "year": 2014,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0001467", "name": "Jared Leto" },
+  "movie": { "id": "0790636", "name": "Dallas Buyers Club" }
+},
+{
+  "year": 2014,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "2143282", "name": "Lupita Nyong'o" },
+  "movie": { "id": "2024544", "name": "12 Years a Slave" }
+},
+{
+  "year": 2014,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0190859", "name": "Alfonso Cuaron" },
+  "movie": { "id": "1454468", "name": "Gravity" }
+},
+{
+  "year": 2013,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "1024648", "name": "Argo" }
+},
+{
+  "year": 2013,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000358", "name": "Daniel Day-Lewis" },
+  "movie": { "id": "0443272", "name": "Lincoln" }
+},
+{
+  "year": 2013,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "2225369", "name": "Jennifer Lawrence" },
+  "movie": { "id": "1045658", "name": "Silver Linings Playbook" }
+},
+{
+  "year": 2013,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0910607", "name": "Christoph Waltz" },
+  "movie": { "id": "1853728", "name": "Django Unchained" }
+},
+{
+  "year": 2013,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0004266", "name": "Anne Hathaway" },
+  "movie": { "id": "1707386", "name": "Les Miserables" }
+},
+{
+  "year": 2013,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000487", "name": "Ang Lee" },
+  "movie": { "id": "0454876", "name": "Life of Pi" }
+},
+{
+  "year": 2012,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "1655442", "name": "The Artist" }
+},
+{
+  "year": 2012,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0241121", "name": "Jean Dujardin" },
+  "movie": { "id": "1655442", "name": "The Artist" }
+},
+{
+  "year": 2012,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000658", "name": "Meryl Streep" },
+  "movie": { "id": "1007029", "name": "The Iron Lady" }
+},
+{
+  "year": 2012,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0001626", "name": "Christopher Plummer" },
+  "movie": { "id": "1532503", "name": "Beginners" }
+},
+{
+  "year": 2012,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0818055", "name": "Octavia Spencer" },
+  "movie": { "id": "1454029", "name": "The Help" }
+},
+{
+  "year": 2012,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0371890", "name": "Michel Hazanavicius" },
+  "movie": { "id": "1655442", "name": "The Artist" }
+},
+{
+  "year": 2011,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "1504320", "name": "The King's Speech" }
+},
+{
+  "year": 2011,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000147", "name": "Colin Firth" },
+  "movie": { "id": "1504320", "name": "The King's Speech" }
+},
+{
+  "year": 2011,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000204", "name": "Natalie Portman" },
+  "movie": { "id": "0947798", "name": "Black Swan" }
+},
+{
+  "year": 2011,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000288", "name": "Christian Bale" },
+  "movie": { "id": "0964517", "name": "The Fighter" }
+},
+{
+  "year": 2011,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0502425", "name": "Melissa Leo" },
+  "movie": { "id": "0964517", "name": "The Fighter" }
+},
+{
+  "year": 2011,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0393799", "name": "Tom Hooper" },
+  "movie": { "id": "1504320", "name": "The King's Speech" }
+},
+{
+  "year": 2010,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0887912", "name": "The Hurt Locker" }
+},
+{
+  "year": 2010,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000313", "name": "Jeff Bridges" },
+  "movie": { "id": "1263670", "name": "Crazy Heart" }
+},
+{
+  "year": 2010,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000113", "name": "Sandra Bullock" },
+  "movie": { "id": "0878804", "name": "The Blind Side" }
+},
+{
+  "year": 2010,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0910607", "name": "Christoph Waltz" },
+  "movie": { "id": "0361748", "name": "Inglourious Basterds" }
+},
+{
+  "year": 2010,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0594898", "name": "Mo'Nique" },
+  "movie": { "id": "0929632", "name": "Precious: Based on the Novel Push by Sapphire" }
+},
+{
+  "year": 2010,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000941", "name": "Kathryn Bigelow" },
+  "movie": { "id": "0887912", "name": "The Hurt Locker" }
+},
+{
+  "year": 2009,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "1010048", "name": "Slumdog Millionaire" }
+},
+{
+  "year": 2009,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000576", "name": "Sean Penn" },
+  "movie": { "id": "1013753", "name": "Milk" }
+},
+{
+  "year": 2009,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000701", "name": "Kate Winslet" },
+  "movie": { "id": "0976051", "name": "The Reader" }
+},
+{
+  "year": 2009,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0005132", "name": "Heath Ledger" },
+  "movie": { "id": "0468569", "name": "The Dark Knight" }
+},
+{
+  "year": 2009,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0004851", "name": "Penelope Cruz" },
+  "movie": { "id": "0497465", "name": "Vicky Cristina Barcelona" }
+},
+{
+  "year": 2009,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000965", "name": "Danny Boyle" },
+  "movie": { "id": "1010048", "name": "Slumdog Millionaire" }
+},
+{
+  "year": 2008,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0477348", "name": "No Country for Old Men" }
+},
+{
+  "year": 2008,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000358", "name": "Daniel Day-Lewis" },
+  "movie": { "id": "0469494", "name": "There Will Be Blood" }
+},
+{
+  "year": 2008,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0182839", "name": "Marion Cotillard" },
+  "movie": { "id": "0450188", "name": "Mome, La" }
+},
+{
+  "year": 2008,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000849", "name": "Javier Bardem" },
+  "movie": { "id": "0477348", "name": "No Country for Old Men" }
+},
+{
+  "year": 2008,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0842770", "name": "Tilda Swinton" },
+  "movie": { "id": "0465538", "name": "Michael Clayton" }
+},
+{
+  "year": 2008,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001053", "name": "Ethan Coen" },
+  "movie": { "id": "0477348", "name": "No Country for Old Men" }
+},
+{
+  "year": 2008,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001054", "name": "Joel Coen" },
+  "movie": { "id": "0477348", "name": "No Country for Old Men" }
+},
+{
+  "year": 2007,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0407887", "name": "The Departed" }
+},
+{
+  "year": 2007,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0001845", "name": "Forest Whitaker" },
+  "movie": { "id": "0455590", "name": "The Last King of Scotland" }
+},
+{
+  "year": 2007,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000545", "name": "Helen Mirren" },
+  "movie": { "id": "0436697", "name": "The Queen" }
+},
+{
+  "year": 2007,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000273", "name": "Alan Arkin" },
+  "movie": { "id": "0449059", "name": "Little Miss Sunshine" }
+},
+{
+  "year": 2007,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "1617685", "name": "Jennifer Hudson" },
+  "movie": { "id": "0443489", "name": "Dreamgirls" }
+},
+{
+  "year": 2007,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000217", "name": "Martin Scorsese" },
+  "movie": { "id": "0407887", "name": "The Departed" }
+},
+{
+  "year": 2006,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0375679", "name": "Crash" }
+},
+{
+  "year": 2006,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000450", "name": "Philip Seymour Hoffman" },
+  "movie": { "id": "0379725", "name": "Capote" }
+},
+{
+  "year": 2006,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000702", "name": "Reese Witherspoon" },
+  "movie": { "id": "0358273", "name": "Walk the Line" }
+},
+{
+  "year": 2006,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000123", "name": "George Clooney" },
+  "movie": { "id": "0365737", "name": "Syriana" }
+},
+{
+  "year": 2006,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001838", "name": "Rachel Weisz" },
+  "movie": { "id": "0387131", "name": "The Constant Gardener" }
+},
+{
+  "year": 2006,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000487", "name": "Ang Lee" },
+  "movie": { "id": "0388795", "name": "Brokeback Mountain" }
+},
+{
+  "year": 2005,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0405159", "name": "Million Dollar Baby" }
+},
+{
+  "year": 2005,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0004937", "name": "Jamie Foxx" },
+  "movie": { "id": "0350258", "name": "Ray" }
+},
+{
+  "year": 2005,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0005476", "name": "Hilary Swank" },
+  "movie": { "id": "0405159", "name": "Million Dollar Baby" }
+},
+{
+  "year": 2005,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000151", "name": "Morgan Freeman" },
+  "movie": { "id": "0405159", "name": "Million Dollar Baby" }
+},
+{
+  "year": 2005,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000949", "name": "Cate Blanchett" },
+  "movie": { "id": "0338751", "name": "The Aviator" }
+},
+{
+  "year": 2005,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000142", "name": "Clint Eastwood" },
+  "movie": { "id": "0405159", "name": "Million Dollar Baby" }
+},
+{
+  "year": 2004,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0167260", "name": "Lord of the Rings: The Return of the King, The" }
+},
+{
+  "year": 2004,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000576", "name": "Sean Penn" },
+  "movie": { "id": "0327056", "name": "Mystic River" }
+},
+{
+  "year": 2004,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000234", "name": "Charlize Theron" },
+  "movie": { "id": "0340855", "name": "Monster" }
+},
+{
+  "year": 2004,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000209", "name": "Tim Robbins" },
+  "movie": { "id": "0327056", "name": "Mystic River" }
+},
+{
+  "year": 2004,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000250", "name": "Renee Zellweger" },
+  "movie": { "id": "0159365", "name": "Cold Mountain" }
+},
+{
+  "year": 2004,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001392", "name": "Peter Jackson" },
+  "movie": { "id": "0167260", "name": "Lord of the Rings: The Return of the King, The" }
+},
+{
+  "year": 2003,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0299658", "name": "Chicago" }
+},
+{
+  "year": 2003,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0004778", "name": "Adrien Brody" },
+  "movie": { "id": "0253474", "name": "Pianist, The" }
+},
+{
+  "year": 2003,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000173", "name": "Nicole Kidman" },
+  "movie": { "id": "0274558", "name": "Hours, The" }
+},
+{
+  "year": 2003,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0177933", "name": "Chris Cooper" },
+  "movie": { "id": "0268126", "name": "Adaptation." }
+},
+{
+  "year": 2003,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001876", "name": "Catherine Zeta-Jones" },
+  "movie": { "id": "0299658", "name": "Chicago" }
+},
+{
+  "year": 2003,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000591", "name": "Roman Polanski" },
+  "movie": { "id": "0253474", "name": "Pianist, The" }
+},
+{
+  "year": 2002,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0268978", "name": "Beautiful Mind, A" }
+},
+{
+  "year": 2002,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000243", "name": "Denzel Washington" },
+  "movie": { "id": "0139654", "name": "Training Day" }
+},
+{
+  "year": 2002,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000932", "name": "Halle Berry" },
+  "movie": { "id": "0285742", "name": "Monster's Ball" }
+},
+{
+  "year": 2002,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000980", "name": "Jim Broadbent" },
+  "movie": { "id": "0280778", "name": "Iris" }
+},
+{
+  "year": 2002,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000124", "name": "Jennifer Connelly" },
+  "movie": { "id": "0268978", "name": "Beautiful Mind, A" }
+},
+{
+  "year": 2002,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000165", "name": "Ron Howard" },
+  "movie": { "id": "0268978", "name": "Beautiful Mind, A" }
+},
+{
+  "year": 2001,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0172495", "name": "Gladiator" }
+},
+{
+  "year": 2001,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000128", "name": "Russell Crowe" },
+  "movie": { "id": "0172495", "name": "Gladiator" }
+},
+{
+  "year": 2001,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000210", "name": "Julia Roberts" },
+  "movie": { "id": "0195685", "name": "Erin Brockovich" }
+},
+{
+  "year": 2001,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0001125", "name": "Benicio Del Toro" },
+  "movie": { "id": "0181865", "name": "Traffic" }
+},
+{
+  "year": 2001,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001315", "name": "Marcia Gay Harden" },
+  "movie": { "id": "0183659", "name": "Pollock" }
+},
+{
+  "year": 2001,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001752", "name": "Steven Soderbergh" },
+  "movie": { "id": "0181865", "name": "Traffic" }
+},
+{
+  "year": 2000,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0169547", "name": "American Beauty" }
+},
+{
+  "year": 2000,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000228", "name": "Kevin Spacey" },
+  "movie": { "id": "0169547", "name": "American Beauty" }
+},
+{
+  "year": 2000,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0005476", "name": "Hilary Swank" },
+  "movie": { "id": "0171804", "name": "Boys Don't Cry" }
+},
+{
+  "year": 2000,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000323", "name": "Michael Caine" },
+  "movie": { "id": "0124315", "name": "Cider House Rules, The" }
+},
+{
+  "year": 2000,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001401", "name": "Angelina Jolie" },
+  "movie": { "id": "0172493", "name": "Girl, Interrupted" }
+},
+{
+  "year": 2000,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0005222", "name": "Sam Mendes" },
+  "movie": { "id": "0169547", "name": "American Beauty" }
+},
+{
+  "year": 1999,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0138097", "name": "Shakespeare in Love" }
+},
+{
+  "year": 1999,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000905", "name": "Roberto Benigni" },
+  "movie": { "id": "0118799", "name": "Vita e bella, La" }
+},
+{
+  "year": 1999,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000569", "name": "Gwyneth Paltrow" },
+  "movie": { "id": "0138097", "name": "Shakespeare in Love" }
+},
+{
+  "year": 1999,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000336", "name": "James Coburn" },
+  "movie": { "id": "0118564", "name": "Affliction" }
+},
+{
+  "year": 1999,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001132", "name": "Judi Dench" },
+  "movie": { "id": "0138097", "name": "Shakespeare in Love" }
+},
+{
+  "year": 1999,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000229", "name": "Steven Spielberg" },
+  "movie": { "id": "0120815", "name": "Saving Private Ryan" }
+},
+{
+  "year": 1998,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0120338", "name": "Titanic" }
+},
+{
+  "year": 1998,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000197", "name": "Jack Nicholson" },
+  "movie": { "id": "0119822", "name": "As Good As It Gets" }
+},
+{
+  "year": 1998,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000166", "name": "Helen Hunt" },
+  "movie": { "id": "0119822", "name": "As Good As It Gets" }
+},
+{
+  "year": 1998,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000245", "name": "Robin Williams" },
+  "movie": { "id": "0119217", "name": "Good Will Hunting" }
+},
+{
+  "year": 1998,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000107", "name": "Kim Basinger" },
+  "movie": { "id": "0119488", "name": "L.A. Confidential" }
+},
+{
+  "year": 1998,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000116", "name": "James Cameron" },
+  "movie": { "id": "0120338", "name": "Titanic" }
+},
+{
+  "year": 1997,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0116209", "name": "English Patient, The" }
+},
+{
+  "year": 1997,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0001691", "name": "Geoffrey Rush" },
+  "movie": { "id": "0117631", "name": "Shine" }
+},
+{
+  "year": 1997,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000531", "name": "Frances McDormand" },
+  "movie": { "id": "0116282", "name": "Fargo" }
+},
+{
+  "year": 1997,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000421", "name": "Cuba Gooding Jr." },
+  "movie": { "id": "0116695", "name": "Jerry Maguire" }
+},
+{
+  "year": 1997,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000300", "name": "Juliette Binoche" },
+  "movie": { "id": "0116209", "name": "English Patient, The" }
+},
+{
+  "year": 1997,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0005237", "name": "Anthony Minghella" },
+  "movie": { "id": "0116209", "name": "English Patient, The" }
+},
+{
+  "year": 1996,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0112573", "name": "Braveheart" }
+},
+{
+  "year": 1996,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000115", "name": "Nicolas Cage" },
+  "movie": { "id": "0113627", "name": "Leaving Las Vegas" }
+},
+{
+  "year": 1996,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000215", "name": "Susan Sarandon" },
+  "movie": { "id": "0112818", "name": "Dead Man Walking" }
+},
+{
+  "year": 1996,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000228", "name": "Kevin Spacey" },
+  "movie": { "id": "0114814", "name": "Usual Suspects, The" }
+},
+{
+  "year": 1996,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000227", "name": "Mira Sorvino" },
+  "movie": { "id": "0113819", "name": "Mighty Aphrodite" }
+},
+{
+  "year": 1996,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000154", "name": "Mel Gibson" },
+  "movie": { "id": "0112573", "name": "Braveheart" }
+},
+{
+  "year": 1995,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0109830", "name": "Forrest Gump" }
+},
+{
+  "year": 1995,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000158", "name": "Tom Hanks" },
+  "movie": { "id": "0109830", "name": "Forrest Gump" }
+},
+{
+  "year": 1995,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0001448", "name": "Jessica Lange" },
+  "movie": { "id": "0109306", "name": "Blue Sky" }
+},
+{
+  "year": 1995,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0001445", "name": "Martin Landau" },
+  "movie": { "id": "0109707", "name": "Ed Wood" }
+},
+{
+  "year": 1995,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001848", "name": "Dianne Wiest" },
+  "movie": { "id": "0109348", "name": "Bullets Over Broadway" }
+},
+{
+  "year": 1995,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000709", "name": "Robert Zemeckis" },
+  "movie": { "id": "0109830", "name": "Forrest Gump" }
+},
+{
+  "year": 1994,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0108052", "name": "Schindler's List" }
+},
+{
+  "year": 1994,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000158", "name": "Tom Hanks" },
+  "movie": { "id": "0107818", "name": "Philadelphia" }
+},
+{
+  "year": 1994,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000456", "name": "Holly Hunter" },
+  "movie": { "id": "0107822", "name": "Piano, The" }
+},
+{
+  "year": 1994,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000169", "name": "Tommy Lee Jones" },
+  "movie": { "id": "0106977", "name": "Fugitive, The" }
+},
+{
+  "year": 1994,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001593", "name": "Anna Paquin" },
+  "movie": { "id": "0107822", "name": "Piano, The" }
+},
+{
+  "year": 1994,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000229", "name": "Steven Spielberg" },
+  "movie": { "id": "0108052", "name": "Schindler's List" }
+},
+{
+  "year": 1993,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0105695", "name": "Unforgiven" }
+},
+{
+  "year": 1993,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000199", "name": "Al Pacino" },
+  "movie": { "id": "0105323", "name": "Scent of a Woman" }
+},
+{
+  "year": 1993,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000668", "name": "Emma Thompson" },
+  "movie": { "id": "0104454", "name": "Howards End" }
+},
+{
+  "year": 1993,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000432", "name": "Gene Hackman" },
+  "movie": { "id": "0105695", "name": "Unforgiven" }
+},
+{
+  "year": 1993,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000673", "name": "Marisa Tomei" },
+  "movie": { "id": "0104952", "name": "My Cousin Vinny" }
+},
+{
+  "year": 1993,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000142", "name": "Clint Eastwood" },
+  "movie": { "id": "0105695", "name": "Unforgiven" }
+},
+{
+  "year": 1992,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0102926", "name": "Silence of the Lambs, The" }
+},
+{
+  "year": 1992,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000164", "name": "Anthony Hopkins" },
+  "movie": { "id": "0102926", "name": "Silence of the Lambs, The" }
+},
+{
+  "year": 1992,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000149", "name": "Jodie Foster" },
+  "movie": { "id": "0102926", "name": "Silence of the Lambs, The" }
+},
+{
+  "year": 1992,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0001588", "name": "Jack Palance" },
+  "movie": { "id": "0101587", "name": "City Slickers" }
+},
+{
+  "year": 1992,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001689", "name": "Mercedes Ruehl" },
+  "movie": { "id": "0101889", "name": "Fisher King, The" }
+},
+{
+  "year": 1992,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001129", "name": "Jonathan Demme" },
+  "movie": { "id": "0102926", "name": "Silence of the Lambs, The" }
+},
+{
+  "year": 1991,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0099348", "name": "Dances with Wolves" }
+},
+{
+  "year": 1991,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000460", "name": "Jeremy Irons" },
+  "movie": { "id": "0100486", "name": "Reversal of Fortune" }
+},
+{
+  "year": 1991,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000870", "name": "Kathy Bates" },
+  "movie": { "id": "0100157", "name": "Misery" }
+},
+{
+  "year": 1991,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000582", "name": "Joe Pesci" },
+  "movie": { "id": "0099685", "name": "Goodfellas" }
+},
+{
+  "year": 1991,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000155", "name": "Whoopi Goldberg" },
+  "movie": { "id": "0099653", "name": "Ghost" }
+},
+{
+  "year": 1991,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000126", "name": "Kevin Costner" },
+  "movie": { "id": "0099348", "name": "Dances with Wolves" }
+},
+{
+  "year": 1990,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0097239", "name": "Driving Miss Daisy" }
+},
+{
+  "year": 1990,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000358", "name": "Daniel Day-Lewis" },
+  "movie": { "id": "0097937", "name": "My Left Foot" }
+},
+{
+  "year": 1990,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0001788", "name": "Jessica Tandy" },
+  "movie": { "id": "0097239", "name": "Driving Miss Daisy" }
+},
+{
+  "year": 1990,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000243", "name": "Denzel Washington" },
+  "movie": { "id": "0097441", "name": "Glory" }
+},
+{
+  "year": 1990,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0002084", "name": "Brenda Fricker" },
+  "movie": { "id": "0097937", "name": "My Left Foot" }
+},
+{
+  "year": 1990,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000231", "name": "Oliver Stone" },
+  "movie": { "id": "0096969", "name": "Born on the Fourth of July" }
+},
+{
+  "year": 1989,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0095953", "name": "Rain Man" }
+},
+{
+  "year": 1989,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000163", "name": "Dustin Hoffman" },
+  "movie": { "id": "0095953", "name": "Rain Man" }
+},
+{
+  "year": 1989,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000149", "name": "Jodie Foster" },
+  "movie": { "id": "0094608", "name": "Accused, The" }
+},
+{
+  "year": 1989,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000177", "name": "Kevin Kline" },
+  "movie": { "id": "0095159", "name": "Fish Called Wanda, A" }
+},
+{
+  "year": 1989,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000133", "name": "Geena Davis" },
+  "movie": { "id": "0094606", "name": "Accidental Tourist, The" }
+},
+{
+  "year": 1989,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001469", "name": "Barry Levinson" },
+  "movie": { "id": "0095953", "name": "Rain Man" }
+},
+{
+  "year": 1988,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0093389", "name": "Last Emperor, The" }
+},
+{
+  "year": 1988,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000140", "name": "Michael Douglas" },
+  "movie": { "id": "0094291", "name": "Wall Street" }
+},
+{
+  "year": 1988,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000333", "name": "Cher" },
+  "movie": { "id": "0093565", "name": "Moonstruck" }
+},
+{
+  "year": 1988,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000125", "name": "Sean Connery" },
+  "movie": { "id": "0094226", "name": "Untouchables, The" }
+},
+{
+  "year": 1988,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001156", "name": "Olympia Dukakis" },
+  "movie": { "id": "0093565", "name": "Moonstruck" }
+},
+{
+  "year": 1988,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000934", "name": "Bernardo Bertolucci" },
+  "movie": { "id": "0093389", "name": "Last Emperor, The" }
+},
+{
+  "year": 1987,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0091763", "name": "Platoon" }
+},
+{
+  "year": 1987,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000056", "name": "Paul Newman" },
+  "movie": { "id": "0090863", "name": "Color of Money, The" }
+},
+{
+  "year": 1987,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0559144", "name": "Marlee Matlin" },
+  "movie": { "id": "0090830", "name": "Children of a Lesser God" }
+},
+{
+  "year": 1987,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000323", "name": "Michael Caine" },
+  "movie": { "id": "0091167", "name": "Hannah and Her Sisters" }
+},
+{
+  "year": 1987,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001848", "name": "Dianne Wiest" },
+  "movie": { "id": "0091167", "name": "Hannah and Her Sisters" }
+},
+{
+  "year": 1987,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000231", "name": "Oliver Stone" },
+  "movie": { "id": "0091763", "name": "Platoon" }
+},
+{
+  "year": 1986,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0089755", "name": "Out of Africa" }
+},
+{
+  "year": 1986,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000458", "name": "William Hurt" },
+  "movie": { "id": "0089424", "name": "Kiss of the Spider Woman" }
+},
+{
+  "year": 1986,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0656183", "name": "Geraldine Page" },
+  "movie": { "id": "0090203", "name": "Trip to Bountiful, The" }
+},
+{
+  "year": 1986,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000747", "name": "Don Ameche" },
+  "movie": { "id": "0088933", "name": "Cocoon" }
+},
+{
+  "year": 1986,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001378", "name": "Anjelica Huston" },
+  "movie": { "id": "0089841", "name": "Prizzi's Honor" }
+},
+{
+  "year": 1986,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001628", "name": "Sydney Pollack" },
+  "movie": { "id": "0089755", "name": "Out of Africa" }
+},
+{
+  "year": 1985,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0086879", "name": "Amadeus" }
+},
+{
+  "year": 1985,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000719", "name": "F. Murray Abraham" },
+  "movie": { "id": "0086879", "name": "Amadeus" }
+},
+{
+  "year": 1985,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000398", "name": "Sally Field" },
+  "movie": { "id": "0087921", "name": "Places in the Heart" }
+},
+{
+  "year": 1985,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0628955", "name": "Haing S. Ngor" },
+  "movie": { "id": "0087553", "name": "Killing Fields, The" }
+},
+{
+  "year": 1985,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001919", "name": "Peggy Ashcroft" },
+  "movie": { "id": "0087892", "name": "Passage to India, A" }
+},
+{
+  "year": 1985,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001232", "name": "Milos Forman" },
+  "movie": { "id": "0086879", "name": "Amadeus" }
+},
+{
+  "year": 1984,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0086425", "name": "Terms of Endearment" }
+},
+{
+  "year": 1984,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000380", "name": "Robert Duvall" },
+  "movie": { "id": "0086423", "name": "Tender Mercies" }
+},
+{
+  "year": 1984,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000511", "name": "Shirley MacLaine" },
+  "movie": { "id": "0086425", "name": "Terms of Endearment" }
+},
+{
+  "year": 1984,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000197", "name": "Jack Nicholson" },
+  "movie": { "id": "0086425", "name": "Terms of Endearment" }
+},
+{
+  "year": 1984,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001373", "name": "Linda Hunt" },
+  "movie": { "id": "0086617", "name": "Year of Living Dangerously, The" }
+},
+{
+  "year": 1984,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000985", "name": "James L. Brooks" },
+  "movie": { "id": "0086425", "name": "Terms of Endearment" }
+},
+{
+  "year": 1983,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0083987", "name": "Gandhi" }
+},
+{
+  "year": 1983,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0001426", "name": "Ben Kingsley" },
+  "movie": { "id": "0083987", "name": "Gandhi" }
+},
+{
+  "year": 1983,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000658", "name": "Meryl Streep" },
+  "movie": { "id": "0084707", "name": "Sophie's Choice" }
+},
+{
+  "year": 1983,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0001283", "name": "Louis Gossett Jr." },
+  "movie": { "id": "0084434", "name": "Officer and a Gentleman, An" }
+},
+{
+  "year": 1983,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001448", "name": "Jessica Lange" },
+  "movie": { "id": "0084805", "name": "Tootsie" }
+},
+{
+  "year": 1983,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000277", "name": "Richard Attenborough" },
+  "movie": { "id": "0083987", "name": "Gandhi" }
+},
+{
+  "year": 1982,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0082158", "name": "Chariots of Fire" }
+},
+{
+  "year": 1982,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000020", "name": "Henry Fonda" },
+  "movie": { "id": "0082846", "name": "On Golden Pond" }
+},
+{
+  "year": 1982,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000031", "name": "Katharine Hepburn" },
+  "movie": { "id": "0082846", "name": "On Golden Pond" }
+},
+{
+  "year": 1982,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000024", "name": "John Gielgud" },
+  "movie": { "id": "0082031", "name": "Arthur" }
+},
+{
+  "year": 1982,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0822972", "name": "Maureen Stapleton" },
+  "movie": { "id": "0082979", "name": "Reds" }
+},
+{
+  "year": 1982,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000886", "name": "Warren Beatty" },
+  "movie": { "id": "0082979", "name": "Reds" }
+},
+{
+  "year": 1981,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0081283", "name": "Ordinary People" }
+},
+{
+  "year": 1981,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000134", "name": "Robert De Niro" },
+  "movie": { "id": "0081398", "name": "Raging Bull" }
+},
+{
+  "year": 1981,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000651", "name": "Sissy Spacek" },
+  "movie": { "id": "0080549", "name": "Coal Miner's Daughter" }
+},
+{
+  "year": 1981,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000459", "name": "Timothy Hutton" },
+  "movie": { "id": "0081283", "name": "Ordinary People" }
+},
+{
+  "year": 1981,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0005460", "name": "Mary Steenburgen" },
+  "movie": { "id": "0081150", "name": "Melvin and Howard" }
+},
+{
+  "year": 1981,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000602", "name": "Robert Redford" },
+  "movie": { "id": "0081283", "name": "Ordinary People" }
+},
+{
+  "year": 1980,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0079417", "name": "Kramer vs. Kramer" }
+},
+{
+  "year": 1980,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000163", "name": "Dustin Hoffman" },
+  "movie": { "id": "0079417", "name": "Kramer vs. Kramer" }
+},
+{
+  "year": 1980,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000398", "name": "Sally Field" },
+  "movie": { "id": "0079638", "name": "Norma Rae" }
+},
+{
+  "year": 1980,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0002048", "name": "Melvyn Douglas" },
+  "movie": { "id": "0078841", "name": "Being There" }
+},
+{
+  "year": 1980,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000658", "name": "Meryl Streep" },
+  "movie": { "id": "0079417", "name": "Kramer vs. Kramer" }
+},
+{
+  "year": 1980,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000914", "name": "Robert Benton" },
+  "movie": { "id": "0079417", "name": "Kramer vs. Kramer" }
+},
+{
+  "year": 1979,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0077416", "name": "Deer Hunter, The" }
+},
+{
+  "year": 1979,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000685", "name": "Jon Voight" },
+  "movie": { "id": "0077362", "name": "Coming Home" }
+},
+{
+  "year": 1979,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000404", "name": "Jane Fonda" },
+  "movie": { "id": "0077362", "name": "Coming Home" }
+},
+{
+  "year": 1979,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000686", "name": "Christopher Walken" },
+  "movie": { "id": "0077416", "name": "Deer Hunter, The" }
+},
+{
+  "year": 1979,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001749", "name": "Maggie Smith" },
+  "movie": { "id": "0077289", "name": "California Suite" }
+},
+{
+  "year": 1979,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001047", "name": "Michael Cimino" },
+  "movie": { "id": "0077416", "name": "Deer Hunter, The" }
+},
+{
+  "year": 1978,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0075686", "name": "Annie Hall" }
+},
+{
+  "year": 1978,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000377", "name": "Richard Dreyfuss" },
+  "movie": { "id": "0076095", "name": "Goodbye Girl, The" }
+},
+{
+  "year": 1978,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000473", "name": "Diane Keaton" },
+  "movie": { "id": "0075686", "name": "Annie Hall" }
+},
+{
+  "year": 1978,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0001673", "name": "Jason Robards" },
+  "movie": { "id": "0076245", "name": "Julia" }
+},
+{
+  "year": 1978,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000603", "name": "Vanessa Redgrave" },
+  "movie": { "id": "0076245", "name": "Julia" }
+},
+{
+  "year": 1978,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000095", "name": "Woody Allen" },
+  "movie": { "id": "0075686", "name": "Annie Hall" }
+},
+{
+  "year": 1977,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0075148", "name": "Rocky" }
+},
+{
+  "year": 1977,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0002075", "name": "Peter Finch" },
+  "movie": { "id": "0074958", "name": "Network" }
+},
+{
+  "year": 1977,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0001159", "name": "Faye Dunaway" },
+  "movie": { "id": "0074958", "name": "Network" }
+},
+{
+  "year": 1977,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0001673", "name": "Jason Robards" },
+  "movie": { "id": "0074119", "name": "All the President's Men" }
+},
+{
+  "year": 1977,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0833152", "name": "Beatrice Straight" },
+  "movie": { "id": "0074958", "name": "Network" }
+},
+{
+  "year": 1977,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000814", "name": "John G. Avildsen" },
+  "movie": { "id": "0075148", "name": "Rocky" }
+},
+{
+  "year": 1976,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0073486", "name": "One Flew Over the Cuckoo's Nest" }
+},
+{
+  "year": 1976,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000197", "name": "Jack Nicholson" },
+  "movie": { "id": "0073486", "name": "One Flew Over the Cuckoo's Nest" }
+},
+{
+  "year": 1976,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0001221", "name": "Louise Fletcher" },
+  "movie": { "id": "0073486", "name": "One Flew Over the Cuckoo's Nest" }
+},
+{
+  "year": 1976,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0122675", "name": "George Burns" },
+  "movie": { "id": "0073766", "name": "Sunshine Boys, The" }
+},
+{
+  "year": 1976,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0335519", "name": "Lee Grant" },
+  "movie": { "id": "0073692", "name": "Shampoo" }
+},
+{
+  "year": 1976,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001232", "name": "Milos Forman" },
+  "movie": { "id": "0073486", "name": "One Flew Over the Cuckoo's Nest" }
+},
+{
+  "year": 1975,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0071562", "name": "Godfather: Part II, The" }
+},
+{
+  "year": 1975,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0138770", "name": "Art Carney" },
+  "movie": { "id": "0071598", "name": "Harry and Tonto" }
+},
+{
+  "year": 1975,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000995", "name": "Ellen Burstyn" },
+  "movie": { "id": "0071115", "name": "Alice Doesn't Live Here Anymore" }
+},
+{
+  "year": 1975,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000134", "name": "Robert De Niro" },
+  "movie": { "id": "0071562", "name": "Godfather: Part II, The" }
+},
+{
+  "year": 1975,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000006", "name": "Ingrid Bergman" },
+  "movie": { "id": "0071877", "name": "Murder on the Orient Express" }
+},
+{
+  "year": 1975,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000338", "name": "Francis Ford Coppola" },
+  "movie": { "id": "0071562", "name": "Godfather: Part II, The" }
+},
+{
+  "year": 1974,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0070735", "name": "Sting, The" }
+},
+{
+  "year": 1974,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000493", "name": "Jack Lemmon" },
+  "movie": { "id": "0070640", "name": "Save the Tiger" }
+},
+{
+  "year": 1974,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0413559", "name": "Glenda Jackson" },
+  "movie": { "id": "0070819", "name": "Touch of Class, A" }
+},
+{
+  "year": 1974,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0002144", "name": "John Houseman" },
+  "movie": { "id": "0070509", "name": "Paper Chase, The" }
+},
+{
+  "year": 1974,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001575", "name": "Tatum O'Neal" },
+  "movie": { "id": "0070510", "name": "Paper Moon" }
+},
+{
+  "year": 1974,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001351", "name": "George Roy Hill" },
+  "movie": { "id": "0070735", "name": "Sting, The" }
+},
+{
+  "year": 1973,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0068646", "name": "Godfather, The" }
+},
+{
+  "year": 1973,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000008", "name": "Marlon Brando" },
+  "movie": { "id": "0068646", "name": "Godfather, The" }
+},
+{
+  "year": 1973,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0591485", "name": "Liza Minnelli" },
+  "movie": { "id": "0068327", "name": "Cabaret" }
+},
+{
+  "year": 1973,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0001297", "name": "Joel Grey" },
+  "movie": { "id": "0068327", "name": "Cabaret" }
+},
+{
+  "year": 1973,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0373012", "name": "Eileen Heckart" },
+  "movie": { "id": "0068326", "name": "Butterflies Are Free" }
+},
+{
+  "year": 1973,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0002080", "name": "Bob Fosse" },
+  "movie": { "id": "0068327", "name": "Cabaret" }
+},
+{
+  "year": 1972,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0067116", "name": "French Connection, The" }
+},
+{
+  "year": 1972,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000432", "name": "Gene Hackman" },
+  "movie": { "id": "0067116", "name": "French Connection, The" }
+},
+{
+  "year": 1972,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000404", "name": "Jane Fonda" },
+  "movie": { "id": "0067309", "name": "Klute" }
+},
+{
+  "year": 1972,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0424565", "name": "Ben Johnson" },
+  "movie": { "id": "0067328", "name": "Last Picture Show, The" }
+},
+{
+  "year": 1972,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001458", "name": "Cloris Leachman" },
+  "movie": { "id": "0067328", "name": "Last Picture Show, The" }
+},
+{
+  "year": 1972,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001243", "name": "William Friedkin" },
+  "movie": { "id": "0067116", "name": "French Connection, The" }
+},
+{
+  "year": 1971,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0066206", "name": "Patton" }
+},
+{
+  "year": 1971,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0001715", "name": "George C. Scott" },
+  "movie": { "id": "0066206", "name": "Patton" }
+},
+{
+  "year": 1971,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0413559", "name": "Glenda Jackson" },
+  "movie": { "id": "0066579", "name": "Women in Love" }
+},
+{
+  "year": 1971,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0590055", "name": "John Mills" },
+  "movie": { "id": "0066319", "name": "Ryan's Daughter" }
+},
+{
+  "year": 1971,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0371040", "name": "Helen Hayes" },
+  "movie": { "id": "0065377", "name": "Airport" }
+},
+{
+  "year": 1971,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0769874", "name": "Franklin J. Schaffner" },
+  "movie": { "id": "0066206", "name": "Patton" }
+},
+{
+  "year": 1970,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0064665", "name": "Midnight Cowboy" }
+},
+{
+  "year": 1970,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000078", "name": "John Wayne" },
+  "movie": { "id": "0065126", "name": "True Grit" }
+},
+{
+  "year": 1970,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0001749", "name": "Maggie Smith" },
+  "movie": { "id": "0064840", "name": "Prime of Miss Jean Brodie, The" }
+},
+{
+  "year": 1970,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0949574", "name": "Gig Young" },
+  "movie": { "id": "0065088", "name": "They Shoot Horses, Don't They?" }
+},
+{
+  "year": 1970,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000443", "name": "Goldie Hawn" },
+  "movie": { "id": "0064117", "name": "Cactus Flower" }
+},
+{
+  "year": 1970,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0772259", "name": "John Schlesinger" },
+  "movie": { "id": "0064665", "name": "Midnight Cowboy" }
+},
+{
+  "year": 1969,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0063385", "name": "Oliver!" }
+},
+{
+  "year": 1969,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0731772", "name": "Cliff Robertson" },
+  "movie": { "id": "0062794", "name": "Charly" }
+},
+{
+  "year": 1969,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000659", "name": "Barbra Streisand" },
+  "movie": { "id": "0062994", "name": "Funny Girl" }
+},
+{
+  "year": 1969,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000031", "name": "Katharine Hepburn" },
+  "movie": { "id": "0063227", "name": "The Lion in Winter" }
+},
+{
+  "year": 1969,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0016776", "name": "Jack Albertson" },
+  "movie": { "id": "0063654", "name": "Subject Was Roses, The" }
+},
+{
+  "year": 1969,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0002106", "name": "Ruth Gordon" },
+  "movie": { "id": "0063522", "name": "Rosemary's Baby" }
+},
+{
+  "year": 1969,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0715346", "name": "Carol Reed" },
+  "movie": { "id": "0063385", "name": "Oliver!" }
+},
+{
+  "year": 1968,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0061811", "name": "In the Heat of the Night" }
+},
+{
+  "year": 1968,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0001768", "name": "Rod Steiger" },
+  "movie": { "id": "0061811", "name": "In the Heat of the Night" }
+},
+{
+  "year": 1968,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000031", "name": "Katharine Hepburn" },
+  "movie": { "id": "0061735", "name": "Guess Who's Coming to Dinner" }
+},
+{
+  "year": 1968,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0001421", "name": "George Kennedy" },
+  "movie": { "id": "0061512", "name": "Cool Hand Luke" }
+},
+{
+  "year": 1968,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0663820", "name": "Estelle Parsons" },
+  "movie": { "id": "0061418", "name": "Bonnie and Clyde" }
+},
+{
+  "year": 1968,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001566", "name": "Mike Nichols" },
+  "movie": { "id": "0061722", "name": "Graduate, The" }
+},
+{
+  "year": 1967,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0060665", "name": "Man for All Seasons, A" }
+},
+{
+  "year": 1967,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0006890", "name": "Paul Scofield" },
+  "movie": { "id": "0060665", "name": "Man for All Seasons, A" }
+},
+{
+  "year": 1967,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000072", "name": "Elizabeth Taylor" },
+  "movie": { "id": "0061184", "name": "Who's Afraid of Virginia Woolf?" }
+},
+{
+  "year": 1967,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000527", "name": "Walter Matthau" },
+  "movie": { "id": "0060424", "name": "Fortune Cookie, The" }
+},
+{
+  "year": 1967,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0006800", "name": "Sandy Dennis" },
+  "movie": { "id": "0061184", "name": "Who's Afraid of Virginia Woolf?" }
+},
+{
+  "year": 1967,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0003593", "name": "Fred Zinnemann" },
+  "movie": { "id": "0060665", "name": "Man for All Seasons, A" }
+},
+{
+  "year": 1966,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0059742", "name": "Sound of Music, The" }
+},
+{
+  "year": 1966,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0001511", "name": "Lee Marvin" },
+  "movie": { "id": "0059017", "name": "Cat Ballou" }
+},
+{
+  "year": 1966,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0001046", "name": "Julie Christie" },
+  "movie": { "id": "0059084", "name": "Darling" }
+},
+{
+  "year": 1966,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000842", "name": "Martin Balsam" },
+  "movie": { "id": "0059798", "name": "Thousand Clowns, A" }
+},
+{
+  "year": 1966,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001859", "name": "Shelley Winters" },
+  "movie": { "id": "0059573", "name": "Patch of Blue, A" }
+},
+{
+  "year": 1966,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0936404", "name": "Robert Wise" },
+  "movie": { "id": "0059742", "name": "Sound of Music, The" }
+},
+{
+  "year": 1965,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0058385", "name": "My Fair Lady" }
+},
+{
+  "year": 1965,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0001322", "name": "Rex Harrison" },
+  "movie": { "id": "0058385", "name": "My Fair Lady" }
+},
+{
+  "year": 1965,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000267", "name": "Julie Andrews" },
+  "movie": { "id": "0058331", "name": "Mary Poppins" }
+},
+{
+  "year": 1965,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0001811", "name": "Peter Ustinov" },
+  "movie": { "id": "0058672", "name": "Topkapi" }
+},
+{
+  "year": 1965,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0444321", "name": "Lila Kedrova" },
+  "movie": { "id": "0057831", "name": "Alexis Zorbas" }
+},
+{
+  "year": 1965,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0002030", "name": "George Cukor" },
+  "movie": { "id": "0058385", "name": "My Fair Lady" }
+},
+{
+  "year": 1964,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0057590", "name": "Tom Jones" }
+},
+{
+  "year": 1964,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0001627", "name": "Sidney Poitier" },
+  "movie": { "id": "0057251", "name": "Lilies of the Field" }
+},
+{
+  "year": 1964,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0623658", "name": "Patricia Neal" },
+  "movie": { "id": "0057163", "name": "Hud" }
+},
+{
+  "year": 1964,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0002048", "name": "Melvyn Douglas" },
+  "movie": { "id": "0057163", "name": "Hud" }
+},
+{
+  "year": 1964,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0751983", "name": "Margaret Rutherford" },
+  "movie": { "id": "0057634", "name": "V.I.P.s, The" }
+},
+{
+  "year": 1964,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0724798", "name": "Tony Richardson" },
+  "movie": { "id": "0057590", "name": "Tom Jones" }
+},
+{
+  "year": 1963,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0056172", "name": "Lawrence of Arabia" }
+},
+{
+  "year": 1963,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000060", "name": "Gregory Peck" },
+  "movie": { "id": "0056592", "name": "To Kill a Mockingbird" }
+},
+{
+  "year": 1963,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000843", "name": "Anne Bancroft" },
+  "movie": { "id": "0056241", "name": "Miracle Worker, The" }
+},
+{
+  "year": 1963,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0003225", "name": "Ed Begley" },
+  "movie": { "id": "0056541", "name": "Sweet Bird of Youth" }
+},
+{
+  "year": 1963,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001157", "name": "Patty Duke" },
+  "movie": { "id": "0056241", "name": "Miracle Worker, The" }
+},
+{
+  "year": 1963,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000180", "name": "David Lean" },
+  "movie": { "id": "0056172", "name": "Lawrence of Arabia" }
+},
+{
+  "year": 1962,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0055614", "name": "West Side Story" }
+},
+{
+  "year": 1962,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0001703", "name": "Maximilian Schell" },
+  "movie": { "id": "0055031", "name": "Judgment at Nuremberg" }
+},
+{
+  "year": 1962,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000047", "name": "Sophia Loren" },
+  "movie": { "id": "0054749", "name": "Ciociara, La" }
+},
+{
+  "year": 1962,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0001995", "name": "George Chakiris" },
+  "movie": { "id": "0055614", "name": "West Side Story" }
+},
+{
+  "year": 1962,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001549", "name": "Rita Moreno" },
+  "movie": { "id": "0055614", "name": "West Side Story" }
+},
+{
+  "year": 1962,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0936404", "name": "Robert Wise" },
+  "movie": { "id": "0055614", "name": "West Side Story" }
+},
+{
+  "year": 1962,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0730385", "name": "Jerome Robbins" },
+  "movie": { "id": "0055614", "name": "West Side Story" }
+},
+{
+  "year": 1961,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0053604", "name": "Apartment, The" }
+},
+{
+  "year": 1961,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000044", "name": "Burt Lancaster" },
+  "movie": { "id": "0053793", "name": "Elmer Gantry" }
+},
+{
+  "year": 1961,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000072", "name": "Elizabeth Taylor" },
+  "movie": { "id": "0053622", "name": "BUtterfield 8" }
+},
+{
+  "year": 1961,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0001811", "name": "Peter Ustinov" },
+  "movie": { "id": "0054331", "name": "Spartacus" }
+},
+{
+  "year": 1961,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0429250", "name": "Shirley Jones" },
+  "movie": { "id": "0053793", "name": "Elmer Gantry" }
+},
+{
+  "year": 1961,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000697", "name": "Billy Wilder" },
+  "movie": { "id": "0053604", "name": "Apartment, The" }
+},
+{
+  "year": 1960,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0052618", "name": "Ben-Hur" }
+},
+{
+  "year": 1960,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000032", "name": "Charlton Heston" },
+  "movie": { "id": "0052618", "name": "Ben-Hur" }
+},
+{
+  "year": 1960,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0797531", "name": "Simone Signoret" },
+  "movie": { "id": "0053226", "name": "Room at the Top" }
+},
+{
+  "year": 1960,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0341518", "name": "Hugh Griffith" },
+  "movie": { "id": "0052618", "name": "Ben-Hur" }
+},
+{
+  "year": 1960,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001859", "name": "Shelley Winters" },
+  "movie": { "id": "0052738", "name": "Diary of Anne Frank, The" }
+},
+{
+  "year": 1960,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0943758", "name": "William Wyler" },
+  "movie": { "id": "0052618", "name": "Ben-Hur" }
+},
+{
+  "year": 1959,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0051658", "name": "Gigi" }
+},
+{
+  "year": 1959,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000057", "name": "David Niven" },
+  "movie": { "id": "0052182", "name": "Separate Tables" }
+},
+{
+  "year": 1959,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0001333", "name": "Susan Hayward" },
+  "movie": { "id": "0051758", "name": "I Want to Live!" }
+},
+{
+  "year": 1959,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0412322", "name": "Burl Ives" },
+  "movie": { "id": "0051411", "name": "Big Country, The" }
+},
+{
+  "year": 1959,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0384908", "name": "Wendy Hiller" },
+  "movie": { "id": "0052182", "name": "Separate Tables" }
+},
+{
+  "year": 1959,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0591486", "name": "Vincente Minnelli" },
+  "movie": { "id": "0051658", "name": "Gigi" }
+},
+{
+  "year": 1958,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0050212", "name": "Bridge on the River Kwai, The" }
+},
+{
+  "year": 1958,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000027", "name": "Alec Guinness" },
+  "movie": { "id": "0050212", "name": "Bridge on the River Kwai, The" }
+},
+{
+  "year": 1958,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0940946", "name": "Joanne Woodward" },
+  "movie": { "id": "0051077", "name": "Three Faces of Eve, The" }
+},
+{
+  "year": 1958,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000999", "name": "Red Buttons" },
+  "movie": { "id": "0050933", "name": "Sayonara" }
+},
+{
+  "year": 1958,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0880855", "name": "Miyoshi Umeki" },
+  "movie": { "id": "0050933", "name": "Sayonara" }
+},
+{
+  "year": 1958,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000180", "name": "David Lean" },
+  "movie": { "id": "0050212", "name": "Bridge on the River Kwai, The" }
+},
+{
+  "year": 1957,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0048960", "name": "Around the World in Eighty Days" }
+},
+{
+  "year": 1957,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000989", "name": "Yul Brynner" },
+  "movie": { "id": "0049408", "name": "King and I, The" }
+},
+{
+  "year": 1957,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000006", "name": "Ingrid Bergman" },
+  "movie": { "id": "0048947", "name": "Anastasia" }
+},
+{
+  "year": 1957,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000063", "name": "Anthony Quinn" },
+  "movie": { "id": "0049456", "name": "Lust for Life" }
+},
+{
+  "year": 1957,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0540416", "name": "Dorothy Malone" },
+  "movie": { "id": "0049966", "name": "Written on the Wind" }
+},
+{
+  "year": 1957,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0828419", "name": "George Stevens" },
+  "movie": { "id": "0049261", "name": "Giant" }
+},
+{
+  "year": 1956,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0048356", "name": "Marty" }
+},
+{
+  "year": 1956,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000308", "name": "Ernest Borgnine" },
+  "movie": { "id": "0048356", "name": "Marty" }
+},
+{
+  "year": 1956,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0536167", "name": "Anna Magnani" },
+  "movie": { "id": "0048563", "name": "Rose Tattoo, The" }
+},
+{
+  "year": 1956,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000493", "name": "Jack Lemmon" },
+  "movie": { "id": "0048380", "name": "Mister Roberts" }
+},
+{
+  "year": 1956,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0886888", "name": "Jo Van Fleet" },
+  "movie": { "id": "0048028", "name": "East of Eden" }
+},
+{
+  "year": 1956,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0542720", "name": "Delbert Mann" },
+  "movie": { "id": "0048356", "name": "Marty" }
+},
+{
+  "year": 1955,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0047296", "name": "On the Waterfront" }
+},
+{
+  "year": 1955,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000008", "name": "Marlon Brando" },
+  "movie": { "id": "0047296", "name": "On the Waterfront" }
+},
+{
+  "year": 1955,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000038", "name": "Grace Kelly" },
+  "movie": { "id": "0046874", "name": "Country Girl, The" }
+},
+{
+  "year": 1955,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0639529", "name": "Edmond O'Brien" },
+  "movie": { "id": "0046754", "name": "Barefoot Contessa, The" }
+},
+{
+  "year": 1955,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001693", "name": "Eva Marie Saint" },
+  "movie": { "id": "0047296", "name": "On the Waterfront" }
+},
+{
+  "year": 1955,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001415", "name": "Elia Kazan" },
+  "movie": { "id": "0047296", "name": "On the Waterfront" }
+},
+{
+  "year": 1954,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0045793", "name": "From Here to Eternity" }
+},
+{
+  "year": 1954,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000034", "name": "William Holden" },
+  "movie": { "id": "0046359", "name": "Stalag 17" }
+},
+{
+  "year": 1954,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000030", "name": "Audrey Hepburn" },
+  "movie": { "id": "0046250", "name": "Roman Holiday" }
+},
+{
+  "year": 1954,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000069", "name": "Frank Sinatra" },
+  "movie": { "id": "0045793", "name": "From Here to Eternity" }
+},
+{
+  "year": 1954,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001656", "name": "Donna Reed" },
+  "movie": { "id": "0045793", "name": "From Here to Eternity" }
+},
+{
+  "year": 1954,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0003593", "name": "Fred Zinnemann" },
+  "movie": { "id": "0045793", "name": "From Here to Eternity" }
+},
+{
+  "year": 1953,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0044672", "name": "Greatest Show on Earth, The" }
+},
+{
+  "year": 1953,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000011", "name": "Gary Cooper" },
+  "movie": { "id": "0044706", "name": "High Noon" }
+},
+{
+  "year": 1953,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0095804", "name": "Shirley Booth" },
+  "movie": { "id": "0044509", "name": "Come Back, Little Sheba" }
+},
+{
+  "year": 1953,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000063", "name": "Anthony Quinn" },
+  "movie": { "id": "0045296", "name": "Viva Zapata!" }
+},
+{
+  "year": 1953,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0002108", "name": "Gloria Grahame" },
+  "movie": { "id": "0044391", "name": "Bad and the Beautiful, The" }
+},
+{
+  "year": 1953,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000406", "name": "John Ford" },
+  "movie": { "id": "0045061", "name": "Quiet Man, The" }
+},
+{
+  "year": 1952,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0043278", "name": "American in Paris, An" }
+},
+{
+  "year": 1952,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000007", "name": "Humphrey Bogart" },
+  "movie": { "id": "0043265", "name": "African Queen, The" }
+},
+{
+  "year": 1952,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000046", "name": "Vivien Leigh" },
+  "movie": { "id": "0044081", "name": "Streetcar Named Desire, A" }
+},
+{
+  "year": 1952,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0001500", "name": "Karl Malden" },
+  "movie": { "id": "0044081", "name": "Streetcar Named Desire, A" }
+},
+{
+  "year": 1952,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0001375", "name": "Kim Hunter" },
+  "movie": { "id": "0044081", "name": "Streetcar Named Desire, A" }
+},
+{
+  "year": 1952,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0828419", "name": "George Stevens" },
+  "movie": { "id": "0043924", "name": "Place in the Sun, A" }
+},
+{
+  "year": 1951,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0042192", "name": "All About Eve" }
+},
+{
+  "year": 1951,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0001207", "name": "Jose Ferrer" },
+  "movie": { "id": "0042367", "name": "Cyrano de Bergerac" }
+},
+{
+  "year": 1951,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0391062", "name": "Judy Holliday" },
+  "movie": { "id": "0042276", "name": "Born Yesterday" }
+},
+{
+  "year": 1951,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0001695", "name": "George Sanders" },
+  "movie": { "id": "0042192", "name": "All About Eve" }
+},
+{
+  "year": 1951,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0401449", "name": "Josephine Hull" },
+  "movie": { "id": "0042546", "name": "Harvey" }
+},
+{
+  "year": 1951,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000581", "name": "Joseph L. Mankiewicz" },
+  "movie": { "id": "0042192", "name": "All About Eve" }
+},
+{
+  "year": 1950,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0041113", "name": "All the King's Men" }
+},
+{
+  "year": 1950,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0002024", "name": "Broderick Crawford" },
+  "movie": { "id": "0041113", "name": "All the King's Men" }
+},
+{
+  "year": 1950,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000014", "name": "Olivia de Havilland" },
+  "movie": { "id": "0041452", "name": "Heiress, The" }
+},
+{
+  "year": 1950,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0415591", "name": "Dean Jagger" },
+  "movie": { "id": "0041996", "name": "Twelve O'Clock High" }
+},
+{
+  "year": 1950,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0564790", "name": "Mercedes McCambridge" },
+  "movie": { "id": "0041113", "name": "All the King's Men" }
+},
+{
+  "year": 1950,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000581", "name": "Joseph L. Mankiewicz" },
+  "movie": { "id": "0041587", "name": "Letter to Three Wives, A" }
+},
+{
+  "year": 1949,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0040416", "name": "Hamlet" }
+},
+{
+  "year": 1949,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000059", "name": "Laurence Olivier" },
+  "movie": { "id": "0040416", "name": "Hamlet" }
+},
+{
+  "year": 1949,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0943837", "name": "Jane Wyman" },
+  "movie": { "id": "0040495", "name": "Johnny Belinda" }
+},
+{
+  "year": 1949,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0404158", "name": "Walter Huston" },
+  "movie": { "id": "0040897", "name": "Treasure of the Sierra Madre, The" }
+},
+{
+  "year": 1949,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0872456", "name": "Claire Trevor" },
+  "movie": { "id": "0040506", "name": "Key Largo" }
+},
+{
+  "year": 1949,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001379", "name": "John Huston" },
+  "movie": { "id": "0040897", "name": "Treasure of the Sierra Madre, The" }
+},
+{
+  "year": 1948,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0039416", "name": "Gentleman's Agreement" }
+},
+{
+  "year": 1948,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0172903", "name": "Ronald Colman" },
+  "movie": { "id": "0039335", "name": "Double Life, A" }
+},
+{
+  "year": 1948,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0949835", "name": "Loretta Young" },
+  "movie": { "id": "0039370", "name": "Farmer's Daughter, The" }
+},
+{
+  "year": 1948,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0350324", "name": "Edmund Gwenn" },
+  "movie": { "id": "0039628", "name": "Miracle on 34th Street" }
+},
+{
+  "year": 1948,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0002141", "name": "Celeste Holm" },
+  "movie": { "id": "0039416", "name": "Gentleman's Agreement" }
+},
+{
+  "year": 1948,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001415", "name": "Elia Kazan" },
+  "movie": { "id": "0039416", "name": "Gentleman's Agreement" }
+},
+{
+  "year": 1947,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0036868", "name": "Best Years of Our Lives, The" }
+},
+{
+  "year": 1947,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0545298", "name": "Fredric March" },
+  "movie": { "id": "0036868", "name": "Best Years of Our Lives, The" }
+},
+{
+  "year": 1947,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000014", "name": "Olivia de Havilland" },
+  "movie": { "id": "0039040", "name": "To Each His Own" }
+},
+{
+  "year": 1947,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0751174", "name": "Harold Russell" },
+  "movie": { "id": "0036868", "name": "Best Years of Our Lives, The" }
+},
+{
+  "year": 1947,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000879", "name": "Anne Baxter" },
+  "movie": { "id": "0038873", "name": "Razor's Edge, The" }
+},
+{
+  "year": 1947,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0943758", "name": "William Wyler" },
+  "movie": { "id": "0036868", "name": "Best Years of Our Lives, The" }
+},
+{
+  "year": 1946,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0037884", "name": "Lost Weekend, The" }
+},
+{
+  "year": 1946,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0001537", "name": "Ray Milland" },
+  "movie": { "id": "0037884", "name": "Lost Weekend, The" }
+},
+{
+  "year": 1946,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0001076", "name": "Joan Crawford" },
+  "movie": { "id": "0037913", "name": "Mildred Pierce" }
+},
+{
+  "year": 1946,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0007223", "name": "James Dunn" },
+  "movie": { "id": "0038190", "name": "Tree Grows in Brooklyn, A" }
+},
+{
+  "year": 1946,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0720843", "name": "Anne Revere" },
+  "movie": { "id": "0037120", "name": "National Velvet" }
+},
+{
+  "year": 1946,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000697", "name": "Billy Wilder" },
+  "movie": { "id": "0037884", "name": "Lost Weekend, The" }
+},
+{
+  "year": 1945,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0036872", "name": "Going My Way" }
+},
+{
+  "year": 1945,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0001078", "name": "Bing Crosby" },
+  "movie": { "id": "0036872", "name": "Going My Way" }
+},
+{
+  "year": 1945,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000006", "name": "Ingrid Bergman" },
+  "movie": { "id": "0036855", "name": "Gaslight" }
+},
+{
+  "year": 1945,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0280178", "name": "Barry Fitzgerald" },
+  "movie": { "id": "0036872", "name": "Going My Way" }
+},
+{
+  "year": 1945,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000856", "name": "Ethel Barrymore" },
+  "movie": { "id": "0037135", "name": "None But the Lonely Heart" }
+},
+{
+  "year": 1945,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0564970", "name": "Leo McCarey" },
+  "movie": { "id": "0036872", "name": "Going My Way" }
+},
+{
+  "year": 1944,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0034583", "name": "Casablanca" }
+},
+{
+  "year": 1944,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0510134", "name": "Paul Lukas" },
+  "movie": { "id": "0036515", "name": "Watch on the Rhine" }
+},
+{
+  "year": 1944,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0428354", "name": "Jennifer Jones" },
+  "movie": { "id": "0036377", "name": "Song of Bernadette, The" }
+},
+{
+  "year": 1944,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0002013", "name": "Charles Coburn" },
+  "movie": { "id": "0036172", "name": "More the Merrier, The" }
+},
+{
+  "year": 1944,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0668093", "name": "Katina Paxinou" },
+  "movie": { "id": "0035896", "name": "For Whom the Bell Tolls" }
+},
+{
+  "year": 1944,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0002031", "name": "Michael Curtiz" },
+  "movie": { "id": "0034583", "name": "Casablanca" }
+},
+{
+  "year": 1943,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0035093", "name": "Mrs. Miniver" }
+},
+{
+  "year": 1943,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000010", "name": "James Cagney" },
+  "movie": { "id": "0035575", "name": "Yankee Doodle Dandy" }
+},
+{
+  "year": 1943,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0002093", "name": "Greer Garson" },
+  "movie": { "id": "0035093", "name": "Mrs. Miniver" }
+},
+{
+  "year": 1943,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0001336", "name": "Van Heflin" },
+  "movie": { "id": "0033774", "name": "Johnny Eager" }
+},
+{
+  "year": 1943,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0942863", "name": "Teresa Wright" },
+  "movie": { "id": "0035093", "name": "Mrs. Miniver" }
+},
+{
+  "year": 1943,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0943758", "name": "William Wyler" },
+  "movie": { "id": "0035093", "name": "Mrs. Miniver" }
+},
+{
+  "year": 1942,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0033729", "name": "How Green Was My Valley" }
+},
+{
+  "year": 1942,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000011", "name": "Gary Cooper" },
+  "movie": { "id": "0034167", "name": "Sergeant York" }
+},
+{
+  "year": 1942,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000021", "name": "Joan Fontaine" },
+  "movie": { "id": "0034248", "name": "Suspicion" }
+},
+{
+  "year": 1942,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0187981", "name": "Donald Crisp" },
+  "movie": { "id": "0033729", "name": "How Green Was My Valley" }
+},
+{
+  "year": 1942,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0000802", "name": "Mary Astor" },
+  "movie": { "id": "0033677", "name": "Great Lie, The" }
+},
+{
+  "year": 1942,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000406", "name": "John Ford" },
+  "movie": { "id": "0033729", "name": "How Green Was My Valley" }
+},
+{
+  "year": 1941,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0032976", "name": "Rebecca" }
+},
+{
+  "year": 1941,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000071", "name": "James Stewart" },
+  "movie": { "id": "0032904", "name": "Philadelphia Story, The" }
+},
+{
+  "year": 1941,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0001677", "name": "Ginger Rogers" },
+  "movie": { "id": "0032671", "name": "Kitty Foyle: The Natural History of a Woman" }
+},
+{
+  "year": 1941,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000974", "name": "Walter Brennan" },
+  "movie": { "id": "0033253", "name": "Westerner, The" }
+},
+{
+  "year": 1941,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0002034", "name": "Jane Darwell" },
+  "movie": { "id": "0032551", "name": "Grapes of Wrath, The" }
+},
+{
+  "year": 1941,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000406", "name": "John Ford" },
+  "movie": { "id": "0032551", "name": "Grapes of Wrath, The" }
+},
+{
+  "year": 1940,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0031381", "name": "Gone with the Wind" }
+},
+{
+  "year": 1940,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0232196", "name": "Robert Donat" },
+  "movie": { "id": "0031385", "name": "Goodbye, Mr. Chips" }
+},
+{
+  "year": 1940,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000046", "name": "Vivien Leigh" },
+  "movie": { "id": "0031381", "name": "Gone with the Wind" }
+},
+{
+  "year": 1940,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0593775", "name": "Thomas Mitchell" },
+  "movie": { "id": "0031971", "name": "Stagecoach" }
+},
+{
+  "year": 1940,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0567408", "name": "Hattie McDaniel" },
+  "movie": { "id": "0031381", "name": "Gone with the Wind" }
+},
+{
+  "year": 1940,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0281808", "name": "Victor Fleming" },
+  "movie": { "id": "0031381", "name": "Gone with the Wind" }
+},
+{
+  "year": 1939,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0030993", "name": "You Can't Take It with You" }
+},
+{
+  "year": 1939,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000075", "name": "Spencer Tracy" },
+  "movie": { "id": "0029942", "name": "Boys Town" }
+},
+{
+  "year": 1939,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000012", "name": "Bette Davis" },
+  "movie": { "id": "0030287", "name": "Jezebel" }
+},
+{
+  "year": 1939,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000974", "name": "Walter Brennan" },
+  "movie": { "id": "0030317", "name": "Kentucky" }
+},
+{
+  "year": 1939,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0047810", "name": "Fay Bainter" },
+  "movie": { "id": "0030287", "name": "Jezebel" }
+},
+{
+  "year": 1939,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001008", "name": "Frank Capra" },
+  "movie": { "id": "0030993", "name": "You Can't Take It with You" }
+},
+{
+  "year": 1938,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0029146", "name": "Life of Emile Zola, The" }
+},
+{
+  "year": 1938,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000075", "name": "Spencer Tracy" },
+  "movie": { "id": "0028691", "name": "Captains Courageous" }
+},
+{
+  "year": 1938,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0707023", "name": "Luise Rainer" },
+  "movie": { "id": "0028944", "name": "Good Earth, The" }
+},
+{
+  "year": 1938,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0771584", "name": "Joseph Schildkraut" },
+  "movie": { "id": "0029146", "name": "Life of Emile Zola, The" }
+},
+{
+  "year": 1938,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0103567", "name": "Alice Brady" },
+  "movie": { "id": "0029047", "name": "In Old Chicago" }
+},
+{
+  "year": 1938,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0564970", "name": "Leo McCarey" },
+  "movie": { "id": "0028597", "name": "Awful Truth, The" }
+},
+{
+  "year": 1937,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0027698", "name": "Great Ziegfeld, The" }
+},
+{
+  "year": 1937,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0612847", "name": "Paul Muni" },
+  "movie": { "id": "0028313", "name": "Story of Louis Pasteur, The" }
+},
+{
+  "year": 1937,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0707023", "name": "Luise Rainer" },
+  "movie": { "id": "0027698", "name": "Great Ziegfeld, The" }
+},
+{
+  "year": 1937,
+  "type": "BEST-SUPPORTING-ACTOR",
+  "person": { "id": "0000974", "name": "Walter Brennan" },
+  "movie": { "id": "0027459", "name": "Come and Get It" }
+},
+{
+  "year": 1937,
+  "type": "BEST-SUPPORTING-ACTRESS",
+  "person": { "id": "0814216", "name": "Gale Sondergaard" },
+  "movie": { "id": "0027300", "name": "Anthony Adverse" }
+},
+{
+  "year": 1937,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001008", "name": "Frank Capra" },
+  "movie": { "id": "0027996", "name": "Mr. Deeds Goes to Town" }
+},
+{
+  "year": 1936,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0026752", "name": "Mutiny on the Bounty" }
+},
+{
+  "year": 1936,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0572142", "name": "Victor McLaglen" },
+  "movie": { "id": "0026529", "name": "Informer, The" }
+},
+{
+  "year": 1936,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000012", "name": "Bette Davis" },
+  "movie": { "id": "0026261", "name": "Dangerous" }
+},
+{
+  "year": 1936,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0000406", "name": "John Ford" },
+  "movie": { "id": "0026529", "name": "Informer, The" }
+},
+{
+  "year": 1935,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0025316", "name": "It Happened One Night" }
+},
+{
+  "year": 1935,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000022", "name": "Clark Gable" },
+  "movie": { "id": "0025316", "name": "It Happened One Night" }
+},
+{
+  "year": 1935,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0001055", "name": "Claudette Colbert" },
+  "movie": { "id": "0025316", "name": "It Happened One Night" }
+},
+{
+  "year": 1935,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0001008", "name": "Frank Capra" },
+  "movie": { "id": "0025316", "name": "It Happened One Night" }
+},
+{
+  "year": 1934,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0023876", "name": "Cavalcade" }
+},
+{
+  "year": 1934,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0001452", "name": "Charles Laughton" },
+  "movie": { "id": "0024473", "name": "Private Life of Henry VIII., The" }
+},
+{
+  "year": 1934,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0000031", "name": "Katharine Hepburn" },
+  "movie": { "id": "0024353", "name": "Morning Glory" }
+},
+{
+  "year": 1934,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0515979", "name": "Frank Lloyd" },
+  "movie": { "id": "0023876", "name": "Cavalcade" }
+},
+{
+  "year": 1932,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0022958", "name": "Grand Hotel" }
+},
+{
+  "year": 1932,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000891", "name": "Wallace Beery" },
+  "movie": { "id": "0021730", "name": "Champ, The" }
+},
+{
+  "year": 1932,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0371040", "name": "Helen Hayes" },
+  "movie": { "id": "0022386", "name": "Sin of Madelon Claudet, The" }
+},
+{
+  "year": 1932,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0097648", "name": "Frank Borzage" },
+  "movie": { "id": "0021635", "name": "Bad Girl" }
+},
+{
+  "year": 1931,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0021746", "name": "Cimarron" }
+},
+{
+  "year": 1931,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0000859", "name": "Lionel Barrymore" },
+  "movie": { "id": "0021885", "name": "Free Soul, A" }
+},
+{
+  "year": 1931,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0237597", "name": "Marie Dressler" },
+  "movie": { "id": "0021148", "name": "Min and Bill" }
+},
+{
+  "year": 1931,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0851537", "name": "Norman Taurog" },
+  "movie": { "id": "0022397", "name": "Skippy" }
+},
+{
+  "year": 1930,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0019729", "name": "Broadway Melody, The" }
+},
+{
+  "year": 1930,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0062828", "name": "Warner Baxter" },
+  "movie": { "id": "0020018", "name": "In Old Arizona" }
+},
+{
+  "year": 1930,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0681933", "name": "Mary Pickford" },
+  "movie": { "id": "0019788", "name": "Coquette" }
+},
+{
+  "year": 1930,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0515979", "name": "Frank Lloyd" },
+  "movie": { "id": "0019824", "name": "Divine Lady, The" }
+},
+{
+  "year": 1929,
+  "type": "BEST-PICTURE",
+  "movie": { "id": "0018578", "name": "Wings" }
+},
+{
+  "year": 1929,
+  "type": "BEST-ACTOR",
+  "person": { "id": "0417837", "name": "Emil Jannings" },
+  "movie": { "id": "0019071", "name": "Last Command, The" }
+},
+{
+  "year": 1929,
+  "type": "BEST-ACTRESS",
+  "person": { "id": "0310980", "name": "Janet Gaynor" },
+  "movie": { "id": "0018379", "name": "Seventh Heaven" }
+},
+{
+  "year": 1929,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0587277", "name": "Lewis Milestone" },
+  "movie": { "id": "0018515", "name": "Two Arabian Knights" }
+},
+{
+  "year": 1929,
+  "type": "BEST-DIRECTOR",
+  "person": { "id": "0097648", "name": "Frank Borzage" },
+  "movie": { "id": "0018379", "name": "Seventh Heaven" }
+}
+]
