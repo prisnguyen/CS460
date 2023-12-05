@@ -92,7 +92,8 @@ query7 = """
     db.oscars.aggregate([
     {
         $group: {
-        _id: "$movie.name",
+        _id: "$movie.id",
+		movie: { $first: "$movie.name"},
         num_awards: { $sum: 1 },
         types: { $push: "$type" }
         }
@@ -107,7 +108,7 @@ query7 = """
         _id: 0,
         num_awards: 1,
         types: 1,
-        movie: "$_id"
+        movie: "$movie"
         }
     }
     ])
@@ -153,35 +154,39 @@ query8 = """
 #
 query9 = """
     db.movies.aggregate([
-    {
-        $match: {
-        "genre": /N/
+        {
+            $match: {
+                "genre": /N/
+            }
+        },
+        {
+            $unwind: "$actors"
+        },
+        {
+            $group: {
+                _id: "$actors.name",
+                movies: { $addToSet: "$movie.name" },
+                num_animated: { $sum: 1 }
+            }
+        },
+        {
+            $match: {
+                num_animated: { $gte: 3 }
+            }
+        },
+        {
+            $project: {
+                _id: 0,
+                actor: "$_id",
+                num_animated: 1
+            }
+        },
+        {
+            $sort: {
+                num_animated: -1,
+                            actor: 1
+            }
         }
-    },
-    {
-        $group: {
-        _id: "$actors.name", 
-        num_animated: { $sum: 1 } 
-        }
-    },
-    {
-        $match: {
-        num_animated: { $gte: 3 } 
-        }
-    },
-    {
-        $project: {
-        _id: 0,
-        actor: "$_id",
-        num_animated: 1
-        }
-    },
-    {
-        $sort: {
-        num_animated: -1, 
-        actor: 1 
-        }
-    }
     ])
 """
 
@@ -190,35 +195,36 @@ query9 = """
 #
 query10 = """
     db.people.aggregate([
-    {
-        $match: {
-        pob: { $exists: true, $ne: null } 
-        }
-    },
-    {
-        $group: {
-        _id: {
-            country: {
-            $arrayElemAt: [{ $split: ["$pob", ", "] }, -1]
+        {
+            $match: {
+                pob: { $exists: true, $ne: null }
             }
         },
-        num_born: { $sum: 1 }
+        {
+            $project: {
+                country: { $arrayElemAt: [{ $split: ["$pob", ", "] }, -1] }
+            }
+        },
+        {
+            $group: {
+                _id: "$country",
+                num_born: { $sum: 1 }
+            }
+        },
+        {
+            $sort: {
+                num_born: -1
+            }
+        },
+        {
+            $limit: 5
+        },
+        {
+            $project: {
+                _id: 0,
+                num_born: 1,
+                country: "$_id"
+            }
         }
-    },
-    {
-        $sort: {
-        num_born: -1 
-        }
-    },
-    {
-        $limit: 5 
-    },
-    {
-        $project: {
-        _id: 0,
-        num_born: 1,
-        country: "$_id.country"
-        }
-    }
     ])
 """
